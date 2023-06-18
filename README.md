@@ -31,7 +31,7 @@ An existing Social Media company has approached you to create a brand new front 
 
 1. Clone the repo
 
-2. Get to the root directory:
+2. Get to the root folder:
 ```bash
 cd hwu-app
 ```
