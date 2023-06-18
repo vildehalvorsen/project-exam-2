@@ -29,10 +29,7 @@ An existing Social Media company has approached you to create a brand new front 
 
 ## Installing
 
-1. Clone the repo:
-```bash
-git clone git@github.com:Noroff-FEU-Assignments/project-exam-2-vildehalvorsen.git
-```
+1. Clone the repo
 
 2. Get to the root directory:
 ```bash
@@ -63,4 +60,4 @@ npm start
 - Netlify
 
 You can visit the app demo on this link:
-https://hangwithus.netlify.app/
+https://hanghwuapp.netlify.app/
