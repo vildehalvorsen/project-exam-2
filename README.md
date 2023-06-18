@@ -1,5 +1,5 @@
 # Social Media App / Project Exam 2
-# <img src="JSFCA_1.jpg" alt='screenshot laptop' height='300' style="clear: right" /> <img src="JSFCA_2.jpg" alt='screenshot mobile' height='300' />
+# <img src="HWU_1.jpg" alt='screenshot laptop' height='300' style="clear: right" /> <img src="HWU_4.jpg" alt='screenshot mobile' height='300' />
 
 The brief for the exam:
 An existing Social Media company has approached you to create a brand new front end for their application. While they have a list of required features, the design and user experience has not been specified. Working with the official API documentation, plan, design and build a modern front end social media application.
