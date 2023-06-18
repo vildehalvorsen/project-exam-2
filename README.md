@@ -48,8 +48,8 @@ npm start
 ```
 
 ## Built with
-- React (>16)
-- Styled Components
+- [React](https://reactjs.org/)
+- [Styled Components](https://styled-components.com/)
 
 ## Resources
 [Noroff API documentation](https://noroff-api-docs.netlify.app/)
