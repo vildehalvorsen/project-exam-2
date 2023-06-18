@@ -60,6 +60,6 @@ npm start
 - Netlify
 
 You can visit the app demo on this link:
-https://hanghwuapp.netlify.app/
+https://hwuapp.netlify.app/
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/d56f4d0c-867d-4055-bd64-757549291190/deploy-status)](https://app.netlify.com/sites/hwuapp/deploys)
